@@ -1,7 +1,11 @@
 The coursework was about doing image stitching from multiple images.
+
+Before image stitching:
+![13131694155393_ pic](https://github.com/Victoria-Qiao/Computer-Vision-assignment/assets/135839176/2d2b3e47-ede2-4095-b86f-fffec88725e3)
+
+After image stitching:
 ![cycwarp_resize_480_320](https://github.com/Victoria-Qiao/Computer-Vision-assignment/assets/135839176/23ab9479-402f-436d-8c33-84d443d4afaf)
 
-![cycwarp_resizing_default_size](https://github.com/Victoria-Qiao/Computer-Vision-assignment/assets/135839176/57177443-7bf1-4557-89e3-bb3e820c675a)
 
 To run the program: 
 
