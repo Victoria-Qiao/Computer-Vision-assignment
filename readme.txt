@@ -1,7 +1,9 @@
 This is about doing image stitching from multiple images.
 
-To run the program: python stitch.py files1.txt(files2.txt or files3.txt) 1 1 480 320 
-
+To run the program: 
+```
+python stitch.py files1.txt(files2.txt or files3.txt) 1 1 480 320 
+```
 For example, python stitch.py files1.txt 1 1 480 320
 
 The first 1 is whether to use cylindrical warping it can also be 0. 
