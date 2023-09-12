@@ -1,3 +1,8 @@
+# Computer Vision Assignment -- Image Stitching
+
+
+## 1. Introduction
+
 The coursework was about doing image stitching from multiple images.
 
 Before image stitching:
@@ -6,6 +11,11 @@ Before image stitching:
 After image stitching:
 ![cycwarp_resize_480_320](https://github.com/Victoria-Qiao/Computer-Vision-assignment/assets/135839176/23ab9479-402f-436d-8c33-84d443d4afaf)
 
+## 2. Functions in the program
+
+This program can stitch multiple images with overlap into one big image. The program contains options like whether to resize images to smaller image size (for faster computation), and whether to do cylindrical warping. The output image effect using cylindrical warping is stated in the report. 
+
+## 3. How to run the program
 
 To run the program: 
 
@@ -24,7 +34,6 @@ The second 1 is whether to resize images. For faster computation, use resizing t
 If there are no options for the cylindrical warping and resizing options or the two options are inputing wrongly except 1 or 0, the default is to use cylindrical warping and not resize.
 
 480 represents the resized height and 320 represents the resized width for input images if resize is chosen
-
 
 If the path is not exist, it automatically stitches images in files1.txt
 
